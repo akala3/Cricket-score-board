@@ -1,0 +1,5 @@
+{
+  "name": "AI Live Cricket Scoreboard",
+  "description": "A dynamic cricket scoreboard that uses AI to generate live, ball-by-ball commentary, providing an immersive and engaging experience for cricket fans.",
+  "requestFramePermissions": []
+}
